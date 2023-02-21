@@ -1,0 +1,8 @@
+C:\Users\student\Desktop\dlya-lyubimogo-prepodavatelya-main\ahhh\талибова тест\heloword\bin\Debug\heloword.exe.config
+C:\Users\student\Desktop\dlya-lyubimogo-prepodavatelya-main\ahhh\талибова тест\heloword\bin\Debug\heloword.exe
+C:\Users\student\Desktop\dlya-lyubimogo-prepodavatelya-main\ahhh\талибова тест\heloword\bin\Debug\heloword.pdb
+C:\Users\student\Desktop\dlya-lyubimogo-prepodavatelya-main\ahhh\талибова тест\heloword\obj\Debug\heloword.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\dlya-lyubimogo-prepodavatelya-main\ahhh\талибова тест\heloword\obj\Debug\heloword.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\dlya-lyubimogo-prepodavatelya-main\ahhh\талибова тест\heloword\obj\Debug\heloword.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\dlya-lyubimogo-prepodavatelya-main\ahhh\талибова тест\heloword\obj\Debug\heloword.exe
+C:\Users\student\Desktop\dlya-lyubimogo-prepodavatelya-main\ahhh\талибова тест\heloword\obj\Debug\heloword.pdb
